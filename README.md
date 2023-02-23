@@ -7,4 +7,3 @@ I'm Fivlas.
 Notification from CocoRP fivem server
 </p>
 <img src="https://cdn.discordapp.com/attachments/1021844425569222778/1078290547917201409/image.png">
-<h1 align='center'><i>CODE ON!</i></h1>
